@@ -1,4 +1,4 @@
-module Visualizanigans
+module Vizinanigans
 
 greet() = print("Hello World!")
 

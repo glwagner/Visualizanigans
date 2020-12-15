@@ -1,4 +1,4 @@
-name = "Visualizanigans"
+name = "Vizinanigans"
 uuid = "01056f13-856d-4b4b-9301-fb369da1c390"
-authors = ["Gregory Wagner <wagner.greg@gmail.com>"]
+authors = ["Andre Souza <sandre@mit.edu>", "Gregory Wagner <wagner.greg@gmail.com>"]
 version = "0.1.0"
